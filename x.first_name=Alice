@@ -1,0 +1,13 @@
+=> [32m#<Contact:0x0000789d46a21618[0m
+ id: [1;36mnil[0m,
+ first_name: [1;36mnil[0m,
+ last_name: [1;36mnil[0m,
+ date_of_birth: [1;36mnil[0m,
+ street_address_1: [1;36mnil[0m,
+ street_address_2: [1;36mnil[0m,
+ city: [1;36mnil[0m,
+ state: [1;36mnil[0m,
+ zip: [1;36mnil[0m,
+ phone: [1;36mnil[0m,
+ notes: [1;36mnil[0m,
+ created_at: [1;36mnil[0m[32m>[0m
